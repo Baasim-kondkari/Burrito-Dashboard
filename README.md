@@ -8,3 +8,5 @@ It provides a clear overview using gauges, scatter plots, and radar charts.
 -`session = tt.Session.start()`<br>
 -`print(session.url)`<br>
 Copy the URL in your browser to use Atoti to display the dashboard.
+
+![Screenshot 2025-03-15 193532](https://github.com/user-attachments/assets/76c0d419-a5a0-4582-afe8-be1fbe7bd3e2)
